@@ -1,3 +1,3 @@
-script_key = "drbi43f2rqofxu23bfg8cw1g"
+script_key = "cmnpel39rzzwigdwb2hg9j57"
 
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/1b5f884272b6efe23754ed83444a620fb325f79ca4013c3065234a242e610daf.lua"))()
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/76348712d5dc52d1cbecf65777b72dbfae8fb2e03074f58658b79ca05d6f540e.lua"))()
